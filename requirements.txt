@@ -1,16 +1,11 @@
 certifi==2021.10.8
 click==8.0.3
-dataclasses==0.8
 flask==2.0.2
-itsdangerous==2.0.1
 jinja2==3.0.2
 markupsafe==2.0.1
 openssl==1.1.1m
 setuptools==58.0.4
 sqlite==3.37.0
 tzdata==2021e
-vc==14.2
-vs2015_runtime==14.27.29016
 werkzeug==2.0.2
 wheel==0.37.1
-wincertstore==0.2
