@@ -1,4 +1,3 @@
-from crypt import methods
 from flask import Flask, render_template, flash, request
 
 app = Flask(__name__)
